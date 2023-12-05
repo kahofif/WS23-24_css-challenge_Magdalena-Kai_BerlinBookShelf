@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book reccomendateions and where to find them in Berlin</title>
+</head>
+
+<body>
+    <header>
+        <h1>BERLIN-BOOK-SHELF</h1>
+    </header>
+    Welcome to my Website. Here you'll find the best books about Berlin, and where they take place.
+
+    <br>
+
+    <h2>All time favorites</h2>
+
+    <ol>
+        <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1050342829" target="_blank">Emil und die
+                Dedektive</a></li>
+        <a href="https://www.thalia.de/shop/home/artikeldetails/A1050342829" target="_blank"><img
+                src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQM_4KqTTQc_-ERuVxpszPHB3RYqT9QIocmj9wFuFnQEvPamK8x"
+                alt="Cover_Emil_und_die_Dedektive" width="100" height="150"></a>
+
+
+        <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1000451034" target="_blank">Herr Lehmann </a></li>
+        <a href="https://www.thalia.de/shop/home/artikeldetails/A1000451034" target="_blank"> <img
+                src="https://images.thalia.media/00/-/8cb21ce7bbe24780bf67fcb138311b46/herr-lehmann-taschenbuch-sven-regener.jpeg"
+                alt="Cover_Herr_Lehmann" width="100" height="150"></a>
+
+        <li><a href="https://www.thalia.de/shop/home/artikeldetails/A1001405234" target="_blank"> Goodbye Berlin</a>
+        </li>
+        <a href="https://www.thalia.de/shop/home/artikeldetails/A1001405234" target="_blank">
+            <img src="https://images.thalia.media/00/-/42c52309ea3b4210948b6b94e78aa22d/goodbye-to-berlin-taschenbuch-christopher-isherwood-englisch.jpeg"
+                alt="cover_goodbye Berlin" width="100" height="150">
+        </a>
+
+    </ol>
+
+    <br>
+
+
+    <h2>List of Main Places</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Titel</th>
+                <th>Date</th>
+                <th>Main Place</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Emil und die Dedektive</td>
+                <td>01.10.2018</td>
+                <td>Charlottenburg</td>
+
+            </tr>
+            <tr>
+                <td>Herr Lehmann</td>
+                <td>01.08.2003</td>
+                <td>Friedrichshain</td>
+            </tr>
+
+            <tr>
+                <td>Goodbye Berlin</td>
+                <td>02.11.1989</td>
+                <td>Kreuzberg</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <hr>
+
+
+    <h2>Contact Me</h2>
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <hr>
+
+    <footer>
+        <p>Thank you for visiting my page!</p>
+    </footer>
+</body>
+
+</html>
