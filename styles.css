@@ -20,6 +20,7 @@ h2 {
 
 h1,
 h2,
+table,
 #introduction {
     text-align: center;
 }
@@ -65,10 +66,6 @@ img {
 #container div {
     width: 200px;
     height: 200px;
-}
-
-table {
-    text-align: center;
 }
 
 #form {
